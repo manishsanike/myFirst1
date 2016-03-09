@@ -1,0 +1,30 @@
+    1  git help
+    2  git config --global user.name "Manish"
+    3  git config --global user.name "msanike@my.okcu.edu"
+    4  mkdir myFirst1
+    5  ls
+    6  cd myFirst1
+    7  pwd
+    8  vim hello.c
+    9  git init
+   10  ls
+   11  git add
+   12  git add .
+   13  git add .
+   14  git commit
+   15  git status
+   16  vim hello.c
+   17  git status
+   18  git log
+   19  git remote add sanikemanish https://github.com/sanikemanish/
+   20  git remote add origin https://github.com/sanikemanish/
+   21  git remote add origin https://github.com/sanikemanish/myFirst1.git
+   22  git push -u master
+   23  git remote add origin https://github.com/sanikemanish/first.git
+   24  git push -u origin master
+   25  git remote add origin https://github.com/sanikemanish/myFirst1.git
+   26  git push -u origin master
+   27  git push -u origin master
+   28  ls
+   29  ls
+   30  history>myhistory
